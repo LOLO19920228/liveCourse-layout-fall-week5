@@ -1,0 +1,22 @@
+.assignmentContent{
+    .allAssignment{
+        min-width: 320px ;
+    }
+    .card-header:not(:first-child){
+        border-top: 1px solid #CDDDCD;
+    }
+
+    .comments{
+        font-size: 14px;
+        .btn{
+            border: 1px solid #CDDDCD;
+            padding:  8px 16px 8px 12px;
+            width: 178px;//我控制不了它＝  ＝
+        }
+    }
+    textarea{
+        resize: none;
+        color: #a8a8a8;
+        border: none;
+    }
+}

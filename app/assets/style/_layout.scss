@@ -1,0 +1,18 @@
+.main {
+    margin-left: 296px;
+}
+.sidebar {
+    // .sidebarActive {
+    //     border-left: 4px solid $secondary;
+    //     color: $secondary;
+    // }
+    li a{
+        border-left: 4px solid $primary;
+    }
+    li a:hover{
+        border-left: 4px solid $secondary;
+        color: $secondary;
+    }
+
+    
+}
